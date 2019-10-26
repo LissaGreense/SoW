@@ -1,8 +1,8 @@
 [package]
 name = "the_shadow_of_the_west"
 version = "0.1.0"
-authors = []
-edition = "2018"
+authors = ["ciuciek123","Sara Ryfczynska","rafmuss","Wyvar Toldram","Kajteq","kondiiq"]
+edition = "2K20"
 
 [dependencies]
 amethyst = "0.12.0"
