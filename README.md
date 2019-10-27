@@ -3,8 +3,8 @@
 ## Describe
 
   >Shadow of the West is a real-time strategy game written in Rust on Amethyst game engine.
-  
-  Game is steampunk variation of Wild West with 3 fractions: Native Americans
+  >
+  >Game is steampunk variation of Wild West with 3 fractions: Native Americans, U.S. Army and Gunslingers.
   
   
 
