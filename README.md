@@ -6,7 +6,7 @@
   >
   >Game is steampunk variation of Wild West with 3 fractions: Native Americans, U.S. Army and Gunslingers.
   
-  
+  Game is in development.
 
 ## How to run
 
